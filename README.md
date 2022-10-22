@@ -5,8 +5,6 @@ Scrap and Organise data from unstructed pdf file and analysis it
 - pandas
 - re
 
-### 👨‍💻 Code is not available publicly right now
-
 ## Result are shown below
 **Raw Data:** Patient Medical Report
 
